@@ -38,6 +38,8 @@ section {
 
 /* ----HEADER---- */
 .header {
+  position: fixed;
+  width: 100%;
   border-bottom: 1px solid #ececec;
 }
 .header-container {
@@ -487,7 +489,8 @@ section {
   fill: var(--accent-text-color);
 }
 
-/*      portfoio      */
+/*     ----- portfolio----      */
+
 .product-section {
   padding: 94px 0;
 }
