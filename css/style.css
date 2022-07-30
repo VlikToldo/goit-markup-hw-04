@@ -38,8 +38,6 @@ section {
 
 /* ----HEADER---- */
 .header {
-  position: fixed;
-  width: 100%;
   border-bottom: 1px solid #ececec;
 }
 .header-container {
